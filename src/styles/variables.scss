@@ -1,0 +1,22 @@
+#root {
+    --color-active: rgb(0,102,204);
+    // --color-text: black;
+    --color-text: #fff;
+    // --color-text2: #6e6e73;
+    --color-text2: #a1a1a6;
+    --color-text3: rgb(29,29,31);
+    // --color-background: #fff;
+    // --color-background2: rgb(24,25,27);
+    // --color-background3: #fbfbfb;
+
+    --color-background:black;
+    // --color-background2:#151516;
+    --color-background2:#1d1d1f;;
+    --color-background3: linear-gradient(to right top, #194189 0%, #3B4980 25%, #8738A7 100%);
+
+    --color-header: rgba(22,22,23,0.8);
+    // --color-header: rgba(251, 251, 253, .8);
+
+    // box-shadow: 0 0 15px rgba(0, 0, 0, 0.06);
+    // --box-shadow: 0 0 15px linear-gradient(to right top, #194189 0%, #3B4980 25%, #8738A7 100%);
+}

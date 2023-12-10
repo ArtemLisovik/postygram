@@ -1,0 +1,10 @@
+.paragraph {
+    color: var(--color-text2);
+    font-size: 28px;
+    font-weight: 400;
+
+    & + .paragraph {
+        margin-top: 15px;
+    }
+}
+

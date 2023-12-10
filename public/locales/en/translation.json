@@ -1,0 +1,149 @@
+{
+    "head": {
+    },
+    "header": {
+    },
+    "main": {
+        "pages": {
+            "home": {
+                "promo": {
+                    "title": "Limitless Crypto Exchange.",
+                    "text": "Buy, Sell, and Swap Crypto: Simple, Fast, Free of Custody.",
+                    "button": "Contats Us"
+                },
+                "calculator": {
+                    "send": "Send",
+                    "recieve": "Recieve",
+                    "button": "Exchange"
+                },
+                "simplicity": {
+                    "sub": "Simplicity",
+                    "title": "Your Best Crypto Exchange.",
+                    "first": {
+                        "subtitle": "Choose currency.",
+                        "text": "Pick one of supported currency pairs from the list."
+                    },
+                    "second": {
+                        "subtitle": "Make deposit.",
+                        "text": "Confirm details and send your assets to the generated address."
+                    },
+                    "third": {
+                        "subtitle": "Get your coins.",
+                        "text": "Receive exchanged crypto with the best possible rate."
+                    },
+                    "button": "Exchange Now"
+                },
+                "security": {
+                    "sub": "Safety",
+                    "title": "Maximum security.",
+                    "text": "Security is one of the most important elements in cryptocurrency. We have taken into account 99% of all possible scam schemes and excluded all of them. Therefore, working with us you can be sure that you will get the tokens you want in full volume."
+                },
+                "lowPrice": {
+                    "title": "Low Price.",
+                    "sub": "Economical",
+                    "text": "We constantly monitor currencies and changes in their exchange rates, which is why we offer some of the most favorable rates on the market and guarantee the relevance of these rates."
+                },
+                "speed": {
+                    "sub": "Speed",
+                    "title": "Maximum response.",
+                    "text": "We work 24/7 without weekends, all our managers constantly monitor new requests and immediately proceed to their processing excluding any delays."
+                }
+            },
+            "services": {
+                "title": "Our services",
+                "subtitle": "We help businesses redefine their goals, vision, and mission to create growth-driven strategic plans",
+                "first": {
+                    "subtitle": "Integrated company export project managment",
+                    "text1":  "- analysis of the company, industry, sales markets;",
+                    "text2": "- development of an export strategy;",
+                    "text3": "- search for buyers abroad;",
+                    "text4": "- placement of companies on online B2B sites;",
+                    "text5": "- preparation of the contract and other shipping documents;",
+                    "text6": "- support of the export transaction;",
+                    "text7": "- determination of the best global venues for holding international B2B events (exhibitions, fairs);",
+                    "text8": "- preparation of the company for participation in international exhibitions;",
+                    "text9": "- advice on international marketing and sales;",
+                    "text10": "- outsourcing of the Export Department;"
+                },
+                "second": {
+                    "subtitle": "Marketing analysis for export",
+                    "text1":  "- analysis of sales markets;",
+                    "text2":  "- identification of the company's advantages over foreign competitors;",
+                    "text3": "- determination of optimal sales channels, methods of marketing communications;",
+                    "text4": "- substantiation of marketing decisions;",
+                    "text5": "- determination of the competitiveness of companies in a particular market.",
+                    "text6": "- benchmarking.",
+                    "text7": "- product management."
+                },
+                "button": "Contats Us"
+            },
+            "about": {
+                "title": "Export Navigator Consulting Agency",
+                "section2": {
+                    "subtitle": "Fast crypto exchange.",
+                    "text1": "The average time for exchange is about 5 minutes. You can track the progress on the exchange page."
+                },
+                "section3": {
+                    "subtitle": "Benefits of working with us",
+                    "subtitle2": "Experience and expertise",
+                    "text1": "The experience of our specialists is based on the practical application of the basic principles of international trade. Often, our experts are involved in various projects and have already brought our clients' products to the markets of more than 30 countries around the world. Due to the fact that our team is on the foreign trade market at the moment, we will lead you down a road 'without pitfalls', which will allow you to avoid a lot of unnecessary routine and inefficient work. Our experts are highly qualified foreign trade specialists with experience of 10 years and more.",
+                    "text2": "We believe that the success of our clients is our success, so we strive to provide high quality services and an individual approach to each project. We are focused on cooperation with clients who share our values and are aimed at the successful development of their business abroad.",
+                    "text3": "We evaluate different points of view (size, dynamics, conditions, competitors) using cabinet research, statistical analysis, expert interviews, and other market research tools. In most countries, we have research unit partners, interviewer networks, and focus group partners. With us, you can be sure that you will receive expert assistance in resolving all issues related to international operations and achieving success in exporting."
+                }
+            },
+            "team": {
+                "title": "Our team",
+                "subtitle": "Export Navigator team of professionals"
+            },
+            "orderPage":{
+                "sell": {
+                    "firstStep": {
+                        "title": "1. Where to receive",
+                        "paragraph1": "Specify the crypto wallet number for the transfer.",
+                        "paragraph2": "Make sure the address you entered is correct.",
+                        "wallet": "Wallet number",
+                        "buttonAccept": "Continue",
+                        "buttonCancel": "Cancel"
+                    },
+                    "secondStep": {
+                        "title": "2. Confirm order",
+                        "paragraph1": "Your order is...",
+                        "id": "Order ID:",
+                        "wallet": "Receipt to Wallet:",
+                        "send": "Send:",
+                        "recieve": "Recieve:"
+                    }
+                },
+                "buy": {
+                    "firstStep": {
+                        "title": "1. Where to receive",
+                        "paragraph1": "Please enter your card number to which funds have been transferred.",
+                        "cardNumber": "Card number",
+                        "buttonAccept": "Continue",
+                        "buttonCancel": "Cancel"
+                    },
+                    "secondStep": {
+                        "title": "2. Your order",
+                        "paragraph1": "Check the correctness...",
+                        "id": "Order ID:",
+                        "wallet": "Receipt on card:",
+                        "send": "Send:",
+                        "recieve": "Recieve:",
+                        "button": "Continue"
+                    }, 
+                    "thirdStep": {
+                        "paragraph1": "Send",
+                        "paragraph2": "to the wallet below",
+                        "wallet": "Wallet number:",
+                        "recieve": "Recieve:",
+                        "button": "Done!"
+                    }
+
+                }
+            }
+        }
+    },
+    "footer": {
+
+    }
+}

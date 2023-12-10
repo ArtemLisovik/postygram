@@ -1,0 +1,24 @@
+.calculator {
+
+  svg {
+    path {
+      fill: #fff;
+      transition: 0.3s;
+    }
+
+
+    &:hover {
+      path {
+        fill: #c2c2c2;
+        transition: 0.3s;
+      }
+    }
+
+    &:active {
+      path {
+        fill: #dedcdc;
+      }
+    }
+  }
+
+}

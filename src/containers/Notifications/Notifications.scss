@@ -1,0 +1,24 @@
+.notifications {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    position: fixed;
+    right: 15px;
+    bottom: 10px;
+    height: max-content;
+    z-index: 9999;
+
+    &__item {
+        border-radius: 15px;
+        box-shadow: 0 0 15px rgb(0 0 0 / 26%);
+        background: var(--color-background2);
+        border: 1px solid #2f2e30;
+        // background: linear-gradient(var(--rotate),
+        // #194189 0%, #3B4980 25%, #8738A7 100%);
+        color: var(--color-text);
+        width: 270px;
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+}
+

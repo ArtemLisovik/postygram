@@ -1,0 +1,62 @@
+.feedback {
+    text-align: center;
+    background: var(--color-background2);
+    padding: 30px;
+    overflow: hidden;
+    height: 400px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.26);
+    border-radius: 28px;
+    overflow: hidden;
+    
+
+    &__user{
+        display: flex;
+        margin-top: 30px;
+        align-items: center;
+        gap: 10px;
+    }
+
+    &__user-info {
+        text-align: start;
+    }
+    &__user-name {
+        font-weight: 600;
+        color: var(--color-text);
+    }
+    &__user-profession {
+        color: var(--color-text2);
+        font-size: 14px;
+        margin-top: 7px;
+    }
+
+    &__avatar {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        overflow: hidden;
+        // margin: 0 auto;
+    }
+    &__avatar img {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    &__decor {
+        margin: 0 auto;
+    }
+    &__decor svg {
+        margin-top: 25px;
+    }
+    &__text {
+        margin-top: 25px;
+        font-style: italic;
+        font-weight: 300;
+        color: var(--color-text);
+        height: 175px;
+        overflow: hidden;
+    }
+    &__title {
+        margin-top: 25px;
+        font-weight: 700;
+    }
+}

@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-blue-950 text-white;
+    }
+
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+}
+
+@layer components {
+    .wrapper {
+        @apply max-w-1200 mx-auto px-4;
+    }
+}
+
+.forwards {
+    animation-fill-mode: forwards;
+}
